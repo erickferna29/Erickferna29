@@ -1,4 +1,6 @@
-## Hi there I am ErickFerna29 👋
+## Hi there! I am ErickFerna29.
+
+I am going to be the King of the Programmers. Currently mastering React and building DeFerLuche. Welcome to my journey!
 
 <!--
 **erickferna29/Erickferna29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
