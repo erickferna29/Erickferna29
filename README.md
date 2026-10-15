@@ -1,6 +1,7 @@
 ## Hi there! I am ErickFerna29.
 
-I am going to be the King of the Programmers. Currently mastering React and building DeFerLuche. Welcome to my journey!
+I'm a Programming Technician currently learning everyday to become a Software Engineer.
+I work with multiple programming languages everyday to build better software.
 
 <!--
 **erickferna29/Erickferna29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
