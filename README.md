@@ -1,7 +1,7 @@
 ## Hi there! I am ErickFerna29.
 
 I'm a Programming Technician currently learning everyday to become a Software Engineer.
-I work with multiple programming languages everyday to build better software.
+I work with multiple programming languages every day to build better software.
 
 <!--
 **erickferna29/Erickferna29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
