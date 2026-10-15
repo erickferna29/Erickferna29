@@ -1,6 +1,6 @@
 ## Hi there! I am ErickFerna29.
 
-I'm a Programming Technician currently learning everyday to become a Software Engineer.
+I'm a Programming Technician currently learning every day to become a Software Engineer.
 I work with multiple programming languages every day to build better software.
 
 <!--
